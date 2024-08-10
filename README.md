@@ -1,5 +1,3 @@
-Hi i'm Arif warsi
-
 ```sh
 Check which program is running this port
 sudo lsof -i :9043
