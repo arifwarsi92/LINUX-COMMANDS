@@ -1,9 +1,9 @@
-
+# Create Colorfull Terminal
+<hr>
 ```sh
 #PS1='\[\033[01;35m\]\u@\h:\w\[\033[00m\]\$ '
 #PS1='\[\033[48;5;82m\]\[\033[38;5;255m\]\u@\h:\w\[\033[0m\]\$ '
 #export PS1='\[\033[0;32m\]\u@\h:\w\$ \[\033[0m\]'
-
 
 # Define colors using RGB values
 COLOR_BG='48;2;0;43;54'          # Background color (Solarized Base03)
