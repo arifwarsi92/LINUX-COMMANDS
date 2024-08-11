@@ -2,6 +2,19 @@
 
 <hr>
 
+> ## Edit Inside this file
+
+```sh
+ gedit ~/.bashrc
+```
+> ## Apply Ixceute this file
+
+```sh
+source ~/.bashrc
+```
+
+> ## This code use insde `bashrc` file 
+
 ```sh
 #PS1='\[\033[01;35m\]\u@\h:\w\[\033[00m\]\$ '
 #PS1='\[\033[48;5;82m\]\[\033[38;5;255m\]\u@\h:\w\[\033[0m\]\$ '
