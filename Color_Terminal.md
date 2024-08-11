@@ -7,7 +7,7 @@
 ```sh
  gedit ~/.bashrc
 ```
-> ## Apply Ixceute this file
+> ## Apply Exceute this file
 
 ```sh
 source ~/.bashrc
